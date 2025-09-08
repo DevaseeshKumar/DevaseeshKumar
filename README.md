@@ -64,7 +64,7 @@ Explore more of my work in my [GitHub repositories](https://github.com/Devaseesh
 
 - Portfolio: [devaseesh.netlify.app](https://devaseesh.netlify.app)  
 - Email: [devaseesh.sonti2005@gmail.com](mailto:devaseesh.sonti2005@gmail.com)  
-- LinkedIn: [linkedin.com/in/sonti-devaseesh-kumar](linkedin.com/in/sonti-devaseesh-kumar-37206627b/)  
+- LinkedIn: [linkedin.com/in/sonti-devaseesh-kumar](https://linkedin.com/in/sonti-devaseesh-kumar-37206627b/)  
 
 ---
 
