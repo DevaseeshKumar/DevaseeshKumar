@@ -1,36 +1,34 @@
-# 👋 Hi there, I’m **Devaseesh Kumar**  
+# Hi there, I’m **Devaseesh Kumar**  
 
-Welcome to my GitHub profile!  
-I’m a passionate **student developer** 🚀 who loves turning ideas into real-world applications and continuously exploring new technologies.  
-
----
-
-## 🌟 About Me  
-- 🎓 A student with a curiosity for **software development & problem-solving**  
-- 💻 Skilled in **Java**, **MERN Stack** (MongoDB, Express.js, React, Node.js), and **Spring Boot**  
-- 🌱 Currently learning & experimenting with **modern frameworks** and **developer tools**  
-- 🔍 Interested in **full-stack development**, **cloud technologies**, and **open-source contributions**  
+Welcome to my GitHub profile.  
+I am a passionate **student developer** who loves building impactful projects and continuously exploring new technologies.  
 
 ---
 
-## 🏆 Featured Projects  
-✨ Some of my highlighted works:  
+## About Me  
+- Student with a deep interest in **software development** and **problem-solving**  
+- Skilled in **Java**, **MERN Stack** (MongoDB, Express.js, React, Node.js), and **Spring Boot**  
+- Continuously learning and experimenting with **modern frameworks** and **developer tools**  
+- Areas of interest: **full-stack development**, **cloud technologies**, and **open-source contributions**  
+
+---
+
+## Featured Projects  
 
 - [**ELMS**](https://github.com/DevaseeshKumar/ELMS)  
-   🗂️ An **Leave Management System** to streamline leave requests, approvals, and tracking.  
+  A **Leave Management System** designed to streamline leave requests, approvals, and tracking.  
 
 - [**Student-Activity-Portal**](https://github.com/DevaseeshKumar/Student-Activity-Portal)  
-   🎉 A **portal for managing student activities and events** with admin, faculty, and student roles.
-  
-- [**Devaseesh-Portfolio**](https://github.com/DevaseeshKumar/Devaseesh-portfolio)
-   🌐 My **personal portfolio website** showcasing skills, projects, and achievements.
+  A **portal for managing student activities and events** with role-based access for admin, faculty, and students.  
 
-👉 Explore more of my work in my [GitHub repositories](https://github.com/DevaseeshKumar?tab=repositories).  
+- [**Devaseesh-Portfolio**](https://github.com/DevaseeshKumar/Devaseesh-portfolio)  
+  A **personal portfolio website** showcasing skills, projects, and achievements.  
+
+Explore more of my work in my [GitHub repositories](https://github.com/DevaseeshKumar?tab=repositories).  
 
 ---
 
-## 🛠️ Tech Stack  
-Here are some of the tools and technologies I work with:  
+## Tech Stack  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -46,7 +44,7 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 ![Devaseesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevaseeshKumar&show_icons=true&theme=tokyonight)  
 
@@ -56,20 +54,20 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-## 🏅 GitHub Trophies  
+## GitHub Trophies  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=DevaseeshKumar&theme=tokyonight&margin-w=10&margin-h=10)  
 
 ---
 
-## 🌐 Connect with Me  
-- 💼 Portfolio: [devaseesh.netlify.app](https://devaseesh.netlify.app)  
-- 📧 Email: [devaseesh.sonti2005@gmail.com](mailto:devaseeshkumar@example.com) *(replace with yours if needed)*  
-- 💬 LinkedIn: [linkedin.com/in/sonti-devaseesh-kumar](https://linkedin.com/in/devaseeshkumar)  
+## Connect with Me  
+
+- Portfolio: [devaseesh.netlify.app](https://devaseesh.netlify.app)  
+- Email: [devaseesh.sonti2005@gmail.com](mailto:devaseesh.sonti2005@gmail.com)  
+- LinkedIn: [linkedin.com/in/sonti-devaseesh-kumar](https://linkedin.com/in/sonti-devaseesh-kumar)  
 
 ---
 
 
----
 
-✨ Thanks for stopping by! Let’s connect and **build something amazing together** 🚀  
+Thank you for visiting my profile. Let’s connect and create something meaningful together.  
