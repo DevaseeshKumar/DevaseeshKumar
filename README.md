@@ -1,34 +1,34 @@
-# Hi there, I’m **Devaseesh Kumar**  
+# **Hi, I’m Devaseesh Kumar**
 
 Welcome to my GitHub profile.  
-I am a passionate **student developer** who loves building impactful projects and continuously exploring new technologies.  
+I’m a passionate **student developer** dedicated to building impactful, scalable, and efficient software solutions. I enjoy exploring new technologies and creating projects that solve real-world problems.
 
 ---
 
-## About Me  
-- Student with a deep interest in **software development** and **problem-solving**  
+## **About Me**
+- Enthusiastic learner with a strong foundation in **software development** and **problem-solving**  
 - Skilled in **Java**, **MERN Stack** (MongoDB, Express.js, React, Node.js), and **Spring Boot**  
-- Continuously learning and experimenting with **modern frameworks** and **developer tools**  
-- Areas of interest: **full-stack development**, **cloud technologies**, and **open-source contributions**  
+- Continuously learning and experimenting with **modern frameworks**, **cloud platforms**, and **developer tools**  
+- Interests include **full-stack development**, **microservices**, and **open-source contributions**
 
 ---
 
-## Featured Projects  
+## **Featured Projects**
 
 - [**ELMS**](https://github.com/DevaseeshKumar/ELMS)  
-  A **Leave Management System** designed to streamline leave requests, approvals, and tracking.  
+  A **Leave Management System** built to streamline leave applications, approvals, and tracking between employees and administrators.
 
-- [**Student-Activity-Portal**](https://github.com/DevaseeshKumar/Student-Activity-Portal)  
-  A **portal for managing student activities and events** with role-based access for admin, faculty, and students.  
+- [**Student Activity Portal**](https://github.com/DevaseeshKumar/Student-Activity-Portal)  
+  A **role-based portal** that manages student events and activities with admin, faculty, and student functionalities.
 
-- [**Devaseesh-Portfolio**](https://github.com/DevaseeshKumar/Devaseesh-portfolio)  
-  A **personal portfolio website** showcasing skills, projects, and achievements.  
+- [**Devaseesh Portfolio**](https://github.com/DevaseeshKumar/Devaseesh-portfolio)  
+  A **personal portfolio website** showcasing my projects, skills, and achievements in a modern, responsive design.
 
-Explore more of my work in my [GitHub repositories](https://github.com/DevaseeshKumar?tab=repositories).  
+Explore more in my [GitHub repositories](https://github.com/DevaseeshKumar?tab=repositories).
 
 ---
 
-## Tech Stack  
+## **Tech Stack**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -44,30 +44,27 @@ Explore more of my work in my [GitHub repositories](https://github.com/Devaseesh
 
 ---
 
-## GitHub Stats  
+## **GitHub Stats**
 
 ![Devaseesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevaseeshKumar&show_icons=true&theme=tokyonight)  
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevaseeshKumar&theme=tokyonight&date_format=j%20M%5B%20Y%5D)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevaseeshKumar&layout=compact&theme=tokyonight)  
-
----
-
-## GitHub Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=DevaseeshKumar&theme=tokyonight&margin-w=10&margin-h=10)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevaseeshKumar&layout=compact&theme=tokyonight)
 
 ---
 
-## Connect with Me  
+## **GitHub Trophies**
 
-- Portfolio: [devaseesh.netlify.app](https://devaseesh.netlify.app)  
-- Email: [devaseesh.sonti2005@gmail.com](mailto:devaseesh.sonti2005@gmail.com)  
-- LinkedIn: [linkedin.com/in/sonti-devaseesh-kumar](https://linkedin.com/in/sonti-devaseesh-kumar-37206627b/)  
+![trophy](https://github-profile-trophy.vercel.app/?username=DevaseeshKumar&theme=tokyonight&margin-w=10&margin-h=10)
 
 ---
 
+## **Connect with Me**
 
+- **Portfolio:** [devaseesh.netlify.app](https://devaseesh.netlify.app)  
+- **Email:** [devaseesh.sonti2005@gmail.com](mailto:devaseesh.sonti2005@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/sonti-devaseesh-kumar](https://linkedin.com/in/sonti-devaseesh-kumar-37206627b/)
 
-Thank you for visiting my profile. Let’s connect and create something meaningful together.  
+---
+
+###  
+Thank you for visiting my profile. Let’s connect and collaborate to build something impactful.
