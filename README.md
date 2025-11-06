@@ -54,7 +54,8 @@ Explore more in my [GitHub repositories](https://github.com/DevaseeshKumar?tab=r
 
 ![Devaseesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevaseeshKumar&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevaseeshKumar&theme=tokyonight&date_format=j%20M%5B%20Y%5D)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevaseeshKumar&layout=compact&theme=tokyonight&include_repo=ELMS,Student-Activity-Portal,Devaseesh-portfolio)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevaseeshKumar&layout=compact&theme=tokyonight&hide=python&cache_seconds=1800&v=2)
+
 
 
 ---
