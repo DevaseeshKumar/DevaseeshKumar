@@ -36,7 +36,7 @@ Explore more in my [GitHub repositories](https://github.com/DevaseeshKumar?tab=r
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -46,6 +46,7 @@ Explore more in my [GitHub repositories](https://github.com/DevaseeshKumar?tab=r
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-339933?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
@@ -65,11 +66,10 @@ Explore more in my [GitHub repositories](https://github.com/DevaseeshKumar?tab=r
 
 ## **Connect with Me**
 
-- **Portfolio:** [devaseesh.netlify.app](https://devaseesh.netlify.app)  
-- **Email:** [devaseesh.sonti2005@gmail.com](mailto:devaseesh.sonti2005@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/sonti-devaseesh-kumar](https://linkedin.com/in/sonti-devaseesh-kumar-37206627b/)
+[![Website](https://img.shields.io/badge/Portfolio-devaseesh.netlify.app-0A66C2?style=for-the-badge&logo=appveyor&logoColor=white)](https://devaseesh.netlify.app)
+[![Email](https://img.shields.io/badge/Email-devaseesh.sonti2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devaseesh.sonti2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonti-devaseesh-kumar-37206627b/)
 
 ---
 
-###  
 Thank you for visiting my profile. Let’s connect and collaborate to build something impactful.
