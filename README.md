@@ -1,89 +1,84 @@
-<!-- ===================== PREMIUM BANNER ===================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7f2fff&height=230&section=header&text=Devaseesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7f2fff&height=220&section=header&text=Devaseesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">🚀 Student Developer | Java | Spring Boot | MERN | Full-Stack Enthusiast</h2>
+<h2 align="center">Student Developer | Java | Spring Boot | MERN | Full-Stack Enthusiast</h2>
 
 <p align="center">
-  Passionate about building modern, scalable applications with clean architecture and real-world impact.
+  Building modern, scalable, and impactful software solutions with clean architecture and strong engineering principles.
 </p>
 
 ---
 
-# 🧑‍💻 About Me
-- 💡 Strong foundations in **Java, Spring Boot, MERN Stack**
-- 🚀 Passionate about **backend engineering, microservices, cloud**
-- 📘 Love building clean, scalable systems
-- 🌱 Always learning **DevOps, CI/CD, System Design**
-- 💙 Open to collaborating on impactful projects
+# About Me
+- Strong foundations in **Java, Spring Boot, MERN Stack**
+- Passionate about **backend engineering, microservices, system design**
+- Focused on writing clean, scalable, production-ready code
+- Exploring **DevOps, cloud technologies, CI/CD pipelines**
+- Interested in contributing to real-world impactful projects
 
 ---
 
-# 🚀 Tech Stack  
+# Tech Stack
+
+## Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,nodejs,express&theme=dark" height="60"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="60"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins&theme=dark" height="60"/>
+  <img src="https://skillicons.dev/icons?i=java,javascript&theme=dark" height="60"/>
 </p>
 
-> 🎯 These icons automatically glow beautifully with the dark theme.  
-> ✔ Fully GitHub-compatible  
-> ✔ No broken links  
-> ✔ No CSS issues  
+## Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express&theme=dark" height="60"/>
+</p>
+
+## Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="60"/>
+</p>
+
+## Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,postman&theme=dark" height="60"/>
+</p>
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
-### 🔹 **Employee Leave Management System (ELMS)**  
-A smart leave management system with employee → admin workflow & location tracking.  
+### Employee Leave Management System (ELMS)  
+A smart leave management workflow with tracking, admin panel, and automation.  
 🔗 https://github.com/DevaseeshKumar/ELMS  
 
 ---
 
-### 🔹 **Student Activity Portal**  
-Role-based event management for Admin, Faculty, Students with email notifications.  
+### Student Activity Portal  
+Role-based system for Admin, Faculty, Students with event assignment & email notifications.  
 🔗 https://github.com/DevaseeshKumar/Student-Activity-Portal  
 
 ---
 
-### 🔹 **Personal Portfolio Website**  
-Sleek and modern portfolio built using React.  
+### Personal Portfolio Website  
+A modern, responsive portfolio designed to showcase skills and projects.  
 🔗 https://github.com/DevaseeshKumar/Devaseesh-portfolio  
 
 ---
 
-# 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevaseeshKumar&theme=tokyonight&margin-w=15"/>
-</p>
-
----
-
-# 📊 GitHub Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevaseeshKumar&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevaseeshKumar&theme=tokyonight" height="180"/>
-</p>
-
----
-
-# 🌐 Connect With Me  
+# Connect With Me  
 <p align="center">
   <a href="https://devaseesh.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-7F2FFF?style=for-the-badge&logo=webflow&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=wordpress" height="50" title="Portfolio"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:devaseesh.sonti2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" title="Email"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sonti-devaseesh-kumar-37206627b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" title="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  ✨ Thanks for visiting — let's build something awesome together! ✨
+  Thank you for visiting my profile.
 </p>
