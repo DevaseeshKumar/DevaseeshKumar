@@ -67,7 +67,7 @@ A modern, responsive portfolio designed to showcase skills and projects.
 # Connect With Me  
 <p align="center">
   <a href="https://devaseesh.netlify.app">
-    <img src="https://skillicons.dev/icons?i=wordpress" height="50" title="Portfolio"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" height="50" title="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:devaseesh.sonti2005@gmail.com">
