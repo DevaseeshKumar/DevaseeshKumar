@@ -1,77 +1,109 @@
-# **Hi, I’m Devaseesh Kumar**
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c7cf0,100:7f2fff&height=250&section=header&text=Devaseesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-Welcome to my GitHub profile.  
-I’m a passionate **student developer** dedicated to building impactful, scalable, and efficient software solutions. I enjoy exploring new technologies and creating projects that solve real-world problems.
+<!-- ===================== INTRO ===================== -->
+<h2 align="center">👋 Hi, I'm <span style="color:#7f5af0;">Devaseesh Kumar</span></h2>
 
----
-
-## **About Me**
-- Enthusiastic learner with a strong foundation in **software development** and **problem-solving**  
-- Skilled in **Java**, **MERN Stack** (MongoDB, Express.js, React, Node.js), and **Spring Boot**  
-- Continuously learning and experimenting with **modern frameworks**, **cloud platforms**, and **developer tools**  
-- Interests include **full-stack development**, **microservices**, and **open-source contributions**
-
----
-
-## **Featured Projects**
-
-- [**ELMS**](https://github.com/DevaseeshKumar/ELMS)  
-  A **Leave Management System** built to streamline leave applications, approvals, and tracking between employees and administrators.
-
-- [**Student Activity Portal**](https://github.com/DevaseeshKumar/Student-Activity-Portal)  
-  A **role-based portal** that manages student events and activities with admin, faculty, and student functionalities.
-
-- [**Devaseesh Portfolio**](https://github.com/DevaseeshKumar/Devaseesh-portfolio)  
-  A **personal portfolio website** showcasing my projects, skills, and achievements in a modern, responsive design.
-
-Explore more in my [GitHub repositories](https://github.com/DevaseeshKumar?tab=repositories).
+<p align="center">
+I’m a passionate <b>student developer</b> focused on building impactful, scalable, and efficient software solutions.<br/>
+I enjoy exploring new technologies and creating projects that solve real-world problems.
+</p>
 
 ---
 
-## **Tech Stack**
-
-### **Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-339933?style=for-the-badge&logo=jenkins&logoColor=white)
+## 🧑‍💻 About Me
+- Enthusiastic learner with strong foundations in **software development** & **problem-solving**  
+- Skilled in **Java**, **Spring Boot**, **MERN Stack**, and modern dev tools  
+- Interested in **full-stack development**, **cloud**, and **microservices**  
+- Passionate about **clean code**, **system design**, and **open-source**  
 
 ---
 
-## **GitHub Stats**
+# 🚀 Tech Stack  
+<p align="center">
+  <i>Hover over the icons for a subtle glow ✨</i>
+</p>
 
-![Devaseesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevaseeshKumar&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevaseeshKumar&theme=tokyonight&date_format=j%20M%5B%20Y%5D)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevaseeshKumar&layout=compact&theme=tokyonight&hide=python&cache_seconds=1800&v=2)
+<!-- ========= Animated + Glow Icons (Style 1 + Animation C) ========= -->
+<style>
+.tech-icon:hover {
+  filter: drop-shadow(0 0 12px #8a2be2);
+  transform: scale(1.1);
+  transition: 0.3s ease-in-out;
+}
+.tech-icon {
+  transition: 0.3s;
+  margin: 12px;
+}
+</style>
 
+### 🔹 Languages & Frameworks
+<p align="center">
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="65"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="65"/>
+</p>
 
+### 🔹 Databases
+<p align="center">
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="65"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65"/>
+</p>
+
+### 🔹 Tools & Platforms
+<p align="center">
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="65"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="65"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="65"/>
+  <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="65"/>
+</p>
 
 ---
 
-## **GitHub Trophies**
+# 📌 Featured Projects
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DevaseeshKumar&theme=tokyonight&margin-w=10&margin-h=10)
+### 🔹 **ELMS – Employee Leave Management System**  
+A platform to handle **leave applications**, **approvals**, and **location tracking**.  
+🔗 https://github.com/DevaseeshKumar/ELMS  
+
+### 🔹 **Student Activity Portal**  
+Role-based event & activity management for **Admin**, **Faculty**, and **Students**.  
+🔗 https://github.com/DevaseeshKumar/Student-Activity-Portal  
+
+### 🔹 **Personal Portfolio**  
+A modern, responsive website showcasing my profile, projects, and skills.  
+🔗 https://github.com/DevaseeshKumar/Devaseesh-portfolio  
 
 ---
 
-## **Connect with Me**
-
-[![Website](https://img.shields.io/badge/Portfolio-devaseesh.netlify.app-0A66C2?style=for-the-badge&logo=appveyor&logoColor=white)](https://devaseesh.netlify.app)
-[![Email](https://img.shields.io/badge/Email-devaseesh.sonti2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devaseesh.sonti2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonti-devaseesh-kumar-37206627b/)
+# 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevaseeshKumar&theme=tokyonight&margin-w=10&margin-h=10"/>
+</p>
 
 ---
 
-Thank you for visiting my profile. Let’s connect and collaborate to build something impactful.
+# 🌐 Connect With Me
+<p align="center">
+  <a href="https://devaseesh.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7F2FFF?style=for-the-badge"/>
+  </a>
+  <a href="mailto:devaseesh.sonti2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/sonti-devaseesh-kumar-37206627b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ Thank you for visiting my profile! Let's build something impactful together. ✨  
+</p>
+
