@@ -13,7 +13,7 @@
     &vCenter=true
     &width=800
     &height=90
-    &lines=Software+Developer;Full+Stack+Enthusiast;" />
+    &lines=Software+Developer;Full+Stack+Enthusiast" />
 </p>
 
 <p align="center">
