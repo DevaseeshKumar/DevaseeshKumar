@@ -1,9 +1,20 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&text=Devaseesh%20Kumar&fontSize=87&fontColor=EEF2FF&color=0:1E1B4B,100:312E81&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Devaseesh%20Kumar&fontSize=87&fontColor=EEF2FF&color=0:1E1B4B,100:312E81&animation=fadeIn"/>
 </p>
 
-<h2 align="center">Student Developer | Java | Spring Boot | MERN | Full-Stack Enthusiast</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Orbitron
+    &size=36
+    &pause=1200
+    &color=7F2FFF
+    &center=true
+    &vCenter=true
+    &width=800
+    &height=90
+    &lines=Software+Developer;Full+Stack+Enthusiast;" />
+</p>
 
 <p align="center">
   Building modern, scalable, and impactful software solutions with clean architecture and strong engineering principles.
