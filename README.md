@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7f2fff&height=220&section=header&text=Devaseesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=320&text=Devaseesh%20Kumar&fontSize=94&fontColor=EFFFFF&color=0:0F0C29,50:302B63,100:24243E&animation=blink"/>
 </p>
 
 <h2 align="center">Student Developer | Java | Spring Boot | MERN | Full-Stack Enthusiast</h2>
