@@ -4,16 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=Orbitron
-    &size=36
-    &pause=1200
-    &color=7F2FFF
-    &center=true
-    &vCenter=true
-    &width=800
-    &height=90
-    &lines=Software+Developer;Full+Stack+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1200&color=7F2FFF&center=true&vCenter=true&width=800&height=90&lines=Software+Developer;Full+Stack+Enthusiast" />
 </p>
 
 <p align="center">
