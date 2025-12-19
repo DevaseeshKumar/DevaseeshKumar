@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Devaseesh%20Kumar&fontSize=87&fontColor=EEF2FF&color=0:1E1B4B,100:312E81&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Devaseesh%20Kumar&fontSize=50&fontColor=EEF2FF&color=0:1E1B4B,100:312E81&animation=fadeIn"/>
 </p>
 
 <p align="center">
